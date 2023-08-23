@@ -61,7 +61,7 @@ III. 프로젝트 수행 내용
 
 1) 프로젝트 관리 측면 
 
-​    ![그림입니다. 원본 그림의 이름: CLP0000bdec38bb.bmp 원본 그림의 크기: 가로 1188pixel, 세로 512pixel](file:///C:\Users\PC-12\AppData\Local\Temp\tmp39BE.jpg)  
+​    ![그림입니다. 원본 그림의 이름: CLP0000bdec38bb.bmp 원본 그림의 크기: 가로 1188pixel, 세로 512pixel](image/캣휠1.png)  
 
 ​    • 수정 전엔 part의 level 개념이 없어 최종 Assy가 무엇인지, 대략적인 부품의 구성은 어떻게 되었는지 확인하기 어려웠다.
 
@@ -79,7 +79,7 @@ III. 프로젝트 수행 내용
 
 2) 프로젝트 개발 측면 
 
-​     ![그림입니다. 원본 그림의 이름: CLP00009698000b.bmp 원본 그림의 크기: 가로 1743pixel, 세로 659pixel](file:///C:\Users\PC-12\AppData\Local\Temp\tmp39DE.jpg)  
+​     ![그림입니다. 원본 그림의 이름: CLP00009698000b.bmp 원본 그림의 크기: 가로 1743pixel, 세로 659pixel](image/캣휠2.png)  
 
    (1) Scale 0.3 적용으로 인한 끼워맞춤 깊이 부족
 
@@ -93,7 +93,7 @@ III. 프로젝트 수행 내용
 
 ​    
 
-  ![그림입니다. 원본 그림의 이름: CLP0000bdec0002.bmp 원본 그림의 크기: 가로 1814pixel, 세로 919pixel](file:///C:\Users\PC-12\AppData\Local\Temp\tmp3A0E.jpg)  
+  ![그림입니다. 원본 그림의 이름: CLP0000bdec0002.bmp 원본 그림의 크기: 가로 1814pixel, 세로 919pixel](image/캣휠3.png)  
 
    (2) 끼워맞춤 핀 크기 불일치
 
@@ -134,8 +134,8 @@ III. 프로젝트 수행 내용
 
 1. 프로젝트의 기대효과 
 
-   ![그림입니다. 원본 그림의 이름: mem00009698000b.tmp 원본 그림의 크기: 가로 683pixel, 세로 357pixel](file:///C:\Users\PC-12\AppData\Local\Temp\tmp3A4E.jpg)  
+   ![그림입니다. 원본 그림의 이름: mem00009698000b.tmp 원본 그림의 크기: 가로 683pixel, 세로 357pixel](image/캣휠4.png)  
 
 • 반려동물과 함께 운동함으로써 만족도 높아진다.
 
-  ![그림입니다. 원본 그림의 이름: mem00009698000c.tmp 원본 그림의 크기: 가로 740pixel, 세로 298pixel](file:///C:\Users\PC-12\AppData\Local\Temp\tmp3A8D.jpg)   
+  ![그림입니다. 원본 그림의 이름: mem00009698000c.tmp 원본 그림의 크기: 가로 740pixel, 세로 298pixel](image/캣휠5.png)   
