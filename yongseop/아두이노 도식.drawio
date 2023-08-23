@@ -1,0 +1,340 @@
+<mxfile host="app.diagrams.net" modified="2023-08-17T05:18:40.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="hMgtUSs-s_jdtPgVEaLg" version="21.6.8" type="github">
+  <diagram name="페이지-1" id="jEqTV79KLIluIE3mg7o3">
+    <mxGraphModel dx="2049" dy="1083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sRAHWQgxMoqwBvq5ufu7-1" value="아두이노" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sRAHWQgxMoqwBvq5ufu7-2" value="초음파 센서" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="87" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sRAHWQgxMoqwBvq5ufu7-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="595" as="sourcePoint" />
+            <mxPoint x="149.8" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sRAHWQgxMoqwBvq5ufu7-5" value="모터 가동" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="550" y="87" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sRAHWQgxMoqwBvq5ufu7-14" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ZblSiI8CSCppppL7qNmO-72" target="ZblSiI8CSCppppL7qNmO-58" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890.3399999999999" y="314.38" as="sourcePoint" />
+            <mxPoint x="870.3399999999999" y="314.38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sRAHWQgxMoqwBvq5ufu7-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="534" as="sourcePoint" />
+            <mxPoint x="300" y="373.38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I3NpKg57AZdCj54GZoln-1" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="167" as="sourcePoint" />
+            <mxPoint x="349.6" y="131.38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-1" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="101.72000000000003" as="sourcePoint" />
+            <mxPoint x="150" y="101.72000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-2" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="101.72000000000003" as="sourcePoint" />
+            <mxPoint x="290" y="101.72000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-5" value="모터 구동" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="72.63" width="80" height="58.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-7" value="0&amp;lt;초음파 거리&amp;lt;x" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="72.63" width="120" height="58.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-8" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="101.61000000000001" as="sourcePoint" />
+            <mxPoint x="390" y="101.61000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-9" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="101.61000000000001" as="sourcePoint" />
+            <mxPoint x="530" y="101.61000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-10" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZblSiI8CSCppppL7qNmO-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="167" as="sourcePoint" />
+            <mxPoint x="350" y="167" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-11" value="초음파 거리&amp;gt;x" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="137" width="120" height="58.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-12" value="모터 정지" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="151.38" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-13" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="165.99" as="sourcePoint" />
+            <mxPoint x="530" y="165.99" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-16" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="72.63" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-17" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="72.63" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-18" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="137" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-19" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="131.38" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-20" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="214.72000000000003" as="sourcePoint" />
+            <mxPoint x="150" y="214.72000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-21" value="모터 드라이버" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-22" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="214.72000000000003" as="sourcePoint" />
+            <mxPoint x="290" y="214.72000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-23" value="1단계: analogWrite=y 정의" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-24" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="264.72" as="sourcePoint" />
+            <mxPoint x="150" y="264.72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-25" value="LED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-26" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="264.72" as="sourcePoint" />
+            <mxPoint x="290" y="264.72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-27" value="모터 속도 z 이상" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="235.63" width="120" height="58.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-29" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="264.61" as="sourcePoint" />
+            <mxPoint x="430" y="264.61" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-31" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="235.63" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-32" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="329.375" as="sourcePoint" />
+            <mxPoint x="370" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370.4" y="330" as="sourcePoint" />
+            <mxPoint x="370" y="294.38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-35" value="점등" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-36" value="소등" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="314.38" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-37" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="374.72" as="sourcePoint" />
+            <mxPoint x="150" y="374.72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-38" value="LCD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-39" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="374.5" as="sourcePoint" />
+            <mxPoint x="290" y="374.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-40" value="모터 가동한 후, &quot;모터 가동&quot; 5초 표기" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="360" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-41" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="412.88" as="sourcePoint" />
+            <mxPoint x="300" y="413" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-42" value="모터 정지한 후, &quot;모터 정지&quot; 5초 표기" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="398.38" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-43" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="452.88" as="sourcePoint" />
+            <mxPoint x="300" y="453" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-44" value="모터 속도 증가한 이후, &quot;모터 가속&quot; 5초 표기" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="438.38" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-45" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="492.88" as="sourcePoint" />
+            <mxPoint x="300" y="493" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-46" value="모터 속도 감소한 이후, &quot;모터 감속&quot; 5초 표기" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="478.38" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-47" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="532.88" as="sourcePoint" />
+            <mxPoint x="300" y="533" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-48" value="Toggle Switch ON이 된 이후, &quot;전원 켜짐&quot; 5초 표기" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="518.38" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-51" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="594.1" as="sourcePoint" />
+            <mxPoint x="150" y="594.1" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-52" value="Switch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="579.38" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-53" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="594.1" as="sourcePoint" />
+            <mxPoint x="290" y="594.1" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-54" value="Toggle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="579.38" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-55" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="739.1" as="sourcePoint" />
+            <mxPoint x="300" y="739" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-56" value="Push Button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="724.38" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-57" value="PB1 눌림" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="710" width="120" height="58.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-58" value="PB2 눌림" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="786.63" width="120" height="58.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-59" value="ON" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="567.25" width="120" height="58.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-60" value="OFF" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="641.63" width="120" height="58.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-61" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="449.99999999999994" y="596.12" as="sourcePoint" />
+            <mxPoint x="429.99999999999994" y="596.12" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-62" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZblSiI8CSCppppL7qNmO-59" target="ZblSiI8CSCppppL7qNmO-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="650" as="sourcePoint" />
+            <mxPoint x="620" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-63" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="596.12" as="sourcePoint" />
+            <mxPoint x="570" y="596.12" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-64" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="670.51" as="sourcePoint" />
+            <mxPoint x="570" y="670.51" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-65" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="739.21" as="sourcePoint" />
+            <mxPoint x="430" y="739.21" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-66" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="594" as="sourcePoint" />
+            <mxPoint x="300" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-68" value="아두이노/모터 전력 공급" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="579.38" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-70" value="아두이노/모터 전력 차단" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="656.01" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-71" value="모터 속도 증가" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="724.38" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-72" value="모터 속도 감소" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="801.01" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-74" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZblSiI8CSCppppL7qNmO-58" target="ZblSiI8CSCppppL7qNmO-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379.99999999999994" y="831.01" as="sourcePoint" />
+            <mxPoint x="359.99999999999994" y="831.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-75" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZblSiI8CSCppppL7qNmO-71" target="ZblSiI8CSCppppL7qNmO-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="789.9999999999999" y="768.75" as="sourcePoint" />
+            <mxPoint x="769.9999999999999" y="768.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-76" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="570" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-77" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="641.63" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-78" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="710" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-79" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="786.63" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-80" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="620" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZblSiI8CSCppppL7qNmO-81" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="760" width="20" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
